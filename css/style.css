@@ -387,11 +387,11 @@ body{
 /*--media screen min 768px--*/
 @media screen and (min-width: 768px) {
 
-    .fa-bars{
+/*     .fa-bars{
        display: none;
-    }
+    } */
     /*--collapsible--*/
-    .nav{
+/*     .nav{
         display: flex;
         align-items: center;
         padding: 1.5rem;
@@ -419,7 +419,7 @@ body{
     }
     .collapsible--expanded .collapsible__content{
         display: flex;
-    }
+    } */
 
 /*Active menu*/
 .navbox .nav-items .active{
@@ -623,6 +623,9 @@ body{
 /*--media screen min 924px--*/
 @media screen and (min-width: 1024px) {
 
+    .fa-bars{
+       display: none;
+    }
     /*--collapsible--*/
     .nav{
         display: flex;
