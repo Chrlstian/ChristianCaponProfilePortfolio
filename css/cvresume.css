@@ -94,6 +94,9 @@
     .info-left-world{
         margin-bottom: 1rem;
     }
+    .add-margin{
+        margin-top: 1rem;
+    }
     /* Languages--*/
     .langItems-container{
         padding-left: 1rem;
